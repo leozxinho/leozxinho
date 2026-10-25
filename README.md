@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./hud.svg" width="100%" alt="Leonardo de Oliveira — Backend Developer (Python, FastAPI, Clean Architecture)" />
+</p>
+
 ## Hi, I'm Leonardo de Oliveira 👋
 
 Backend developer focused on **Python and FastAPI**, studying Systems Analysis and Development.
